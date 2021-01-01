@@ -40,9 +40,9 @@ new-folder ... ...
 Membuat file baru
 Gunakan perintah touch untuk membuat file baru
 
-// membuat file index.html
+membuat file index.html
 $ touch index.html
-// mengecek apakah sudah berhasil buat file baru
+mengecek apakah sudah berhasil buat file baru
 $ ls 
 index.html ... ... 
 
