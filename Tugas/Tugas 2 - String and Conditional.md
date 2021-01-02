@@ -168,7 +168,7 @@ var Aldi = 168;
 
 Output :
 
-Udin Memiliki Tinggi Badan tertinggi
+Udin Memiliki Tinggi Badan Tertinggi
 Hilman Memiliki Tinggi Badan Terendah
 ```
 
