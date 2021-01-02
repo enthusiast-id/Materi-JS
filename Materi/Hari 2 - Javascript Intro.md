@@ -78,7 +78,7 @@ console.log(items) // Undefined
 
 Operator adalah karakter khusus yang merepresentasikan sebuah tindakan. Operator terbagi ke dalam beberapa jenis:
 
-####1. Operator Aritmatika Operator yang melibatkan operasi matematika seperti tambah, kurang, kali, bagi.
+#### 1. Operator Aritmatika Operator yang melibatkan operasi matematika seperti tambah, kurang, kali, bagi.
 * Tambah (+)
 * Kurang (–)
 * Kali (*)
@@ -136,14 +136,18 @@ console.log( number <= 20 ) // true
 #### 4. Operator Kondisional, Operator yang mengkombinasikan dua nilai kebenaran . Terdapat operator AND (&&) dan OR (||)
    
 * OR ( || )
+```js
 console.log(true || true); // true
 console.log(true || false); // true
 console.log(true || false || false); // true
 console.log(false || false); // false
+```
 
 * AND ( && )
+```js
 console.log(true && true); // true
 console.log(true && false); // false
 console.log(false && false); // false
 console.log(false && true && true); // false
 console.log(true && true && true); // true 
+```
