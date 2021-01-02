@@ -151,6 +151,7 @@ Output:
 
 
 **B. Pengecekan Tinggi Badan**
+
 Petunjuk : Buatlah 3 buah variable berisi tinggi badan 3 orang dan tentukan siapa yang memiliki tinggi badan tertinggi?
 
 Contoh:
@@ -172,6 +173,7 @@ Takur Memiliki Tinggi Badan Terendah
 ```
 
 **C. Ranking Nilai**
+
 Petunjuk : Buatlah 3 variable berisi nilai dan Ranking-kan berdasarkan range nilai yang dimiliki sesuai grade rules dibawah
 
 Nilai 76-100 : A
