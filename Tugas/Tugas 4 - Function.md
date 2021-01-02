@@ -32,6 +32,7 @@ console.log(hasilKali) // 48
 
 
 **No. 3** 
+
 Tulislah sebuah function dengan nama introduce() yang memproses paramater yang dikirim menjadi sebuah kalimat perkenalan seperti berikut: “Nama saya [name], umur saya [age] tahun, alamat saya di [address], dan saya punya hobby yaitu [hobby]!”
 
 ```js
