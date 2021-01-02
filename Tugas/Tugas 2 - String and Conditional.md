@@ -158,7 +158,7 @@ Contoh:
 
 ```js
 var Udin = 172;
-var Takur = 164;
+var Hilman = 164;
 var Aldi = 168;
 
 
@@ -168,8 +168,8 @@ var Aldi = 168;
 
 Output :
 
-Udin Memiliki Tinggi Badan tertinggi
-Takur Memiliki Tinggi Badan Terendah
+Udin Memiliki Tinggi Badan Tertinggi
+Hilman Memiliki Tinggi Badan Terendah
 ```
 
 **C. Ranking Nilai**
@@ -177,6 +177,8 @@ Takur Memiliki Tinggi Badan Terendah
 Petunjuk : Buatlah 3 variable berisi nilai dan Ranking-kan berdasarkan range nilai yang dimiliki sesuai grade rules dibawah
 
 ```js
+Grade Rules :
+
 Nilai 76-100 : A
 Nilai 36-75  : B
 Nilai 1-35   : C

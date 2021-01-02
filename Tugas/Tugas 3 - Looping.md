@@ -1,10 +1,10 @@
-# __Tugas 2 – String & Conditional__
+# __Tugas 3 – Looping__
 
 Pada tugas kali ini buatlah folder baru (Tugas 3 – Looping) yang berisikan file dengan nama looping.js . Simpan folder tugas ini di dalam folder repository project yang dikerjakan pada LatihanJS
 
 **No. 1 Looping While**
 
-Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax while. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk membuat suatu looping yang menghitung maju dan menghitung mundur. Jangan lupa tampilkan di console juga judul ‘LOOPING PERTAMA’ dan ‘LOOPING KEDUA’.”
+Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax *while*. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk membuat suatu looping yang menghitung maju dan menghitung mundur. Jangan lupa tampilkan di console juga judul ‘LOOPING PERTAMA’ dan ‘LOOPING KEDUA’.”
 
 ```js
 Output:
@@ -36,7 +36,8 @@ LOOPING KEDUA
 ```
 
 **No. 2 Looping menggunakan for**
-Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax for. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk memenuhi syarat tertentu yaitu:
+
+Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax *for*. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk memenuhi syarat tertentu yaitu:
 
 SYARAT:
 A. Jika angka ganjil maka tampilkan Ganjil
@@ -97,6 +98,7 @@ Output:
 ```
 
 No. 5 Membuat Papan Catur
+
 Buatlah suatu looping untuk menghasilkan sebuah papan catur dengan ukuran 8 x 8 . Papan berwarna hitam memakai tanda pagar (#) sedangkan papan putih menggunakan spasi. Looping boleh menggunakan syntax apa pun (while, for, do while).
 
 ```js
@@ -113,4 +115,4 @@ Output:
 
 ```
 
-Jika sudah selesai dikerjakan, silahkan push hasil pekerjaan Anda ke repository Gitlab masing-masing (gunakan repository project LatihanJS).
+Jika sudah selesai dikerjakan, silahkan push hasil pekerjaan Anda ke repository Github masing-masing (gunakan repository project LatihanJS).
