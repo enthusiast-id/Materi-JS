@@ -3,20 +3,21 @@
 Kondisional adalah sebuah metode yang melakukan pengecekan terhadap suatu pernyataan atau premis apakah bernilai benar atau tidak, jika benar maka akan menjalankan sebuah block code tertentu.
 
 Kondisional dengan if / else if / else 
-Contoh 1 menjalankan kode jika premis bernilai true
+
+**Contoh 1 menjalankan kode jika premis bernilai true**
 ```js
 if ( true ) {
     console.log("jalankan code")
 }
 ```
-Contoh 2 kode tidak dijalankan jika premis bernilai false
+**Contoh 2 kode tidak dijalankan jika premis bernilai false**
 ```js
 if ( false ) {
     console.log("code tidak dijalankan")
 }
 ```
 
-Contoh 3 Premis dengan perbandingan suatu nilai
+**Contoh 3 Premis dengan perbandingan suatu nilai**
 ```js
 var mood = "happy"
 if ( mood == "happy" ) {
@@ -26,7 +27,7 @@ if ( mood == "happy" ) {
 
 Di dalam kondisional dikenal juga dengan istilah branching atau percabangan. Dengan percabangan kita bisa mengecek nilai kebenaran dari berbagai premis yang kita sediakan. cara menambahkan kondisi atau premis lain dari premis pertamanya adalah dengan sintaks else . Contohnya ketika kita diminta untuk membeli telur dan buah ke minimarket oleh ibu kita maka akan banyak sekali kondisi atau kemungkinan yang terjadi dalam perjalanan kita membeli barang-barang tersebut di supermarket.
 
-Contoh 4 Branching sederhana
+**Contoh 4 Branching sederhana**
 ```js
 var minimarketStatus = "open"
 if ( minimarketStatus == "open" ) {
@@ -37,7 +38,7 @@ if ( minimarketStatus == "open" ) {
 ```
 Kondisi else di atas adalah kondisi selain minimarketStatus == "open" .
 
-Contoh 5 Branching dengan kondisi
+**Contoh 5 Branching dengan kondisi**
 ```js
 var minimarketStatus = "close"
 var minuteRemainingToOpen = 5
@@ -53,7 +54,7 @@ contoh di atas kita memberikan kondisi tambahan yaitu jika minimarket akan buka 
 
 Selain Branching atau percabangan, kondisional juga dapat memiliki sarang atau tumpukan yaitu terdapat kondisional di dalam sebuah kondisional.
 
-Contoh 6 Kondisional bersarang
+**Contoh 6 Kondisional bersarang**
 ```js
 var minimarketStatus = "open"
 var telur = "soldout"
@@ -76,7 +77,7 @@ pada kondisi di atas minimarketnya sudah buka lalu cek kondisi selanjutnya cek a
 Kondisional dengan Switch Case 
 Cara lain untuk melakukan pengecekan kondisi atau conditional adalah dengan switch case. Penggunaan switch case mirip seperti kita menyalakan tombol switch pada remote. Jika kondisi tombol yang dipijit adalah tombol dengan nomer tertentu maka akan menjalankan prorgram tertentu.
 
-Contoh 7 Kondisional dengan switch case
+**Contoh 7 Kondisional dengan switch case**
 ```js
 var buttonPushed = 1;
 switch(buttonPushed) {
