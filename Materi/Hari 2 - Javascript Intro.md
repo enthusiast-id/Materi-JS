@@ -78,7 +78,7 @@ console.log(items) // Undefined
 
 Operator adalah karakter khusus yang merepresentasikan sebuah tindakan. Operator terbagi ke dalam beberapa jenis:
 
-1. Operator Aritmatika Operator yang melibatkan operasi matematika seperti tambah, kurang, kali, bagi.
+####1. Operator Aritmatika Operator yang melibatkan operasi matematika seperti tambah, kurang, kali, bagi.
 * Tambah (+)
 * Kurang (–)
 * Kali (*)
@@ -86,42 +86,54 @@ Operator adalah karakter khusus yang merepresentasikan sebuah tindakan. Operator
 * Modulus (%)
 Modulus adalah sisa bagi. Contohnya 5%3 hasilnya adalah 2, 100%5 hasilnya 0.
 
-2. Operator Assignment (=), Operator untuk mendaftarkan atau meng-assign suatu nilai ke dalam suatu variable
+#### 2. Operator Assignment (=), Operator untuk mendaftarkan atau meng-assign suatu nilai ke dalam suatu variable
 ```js
 var angka 
 angka = 10 // Contoh assignment variable angka dengan nilai 10
 ```
-3. Operator Perbandingan, Operator yang membandingkan suatu nilai dengan nilai yang lain. Hasil dari perbandingan ini akan dikembalikan dalam tipe data boolean **true** atau **false**.
+#### 3. Operator Perbandingan, Operator yang membandingkan suatu nilai dengan nilai yang lain. Hasil dari perbandingan ini akan dikembalikan dalam tipe data boolean **true** atau **false**.
+   
 * Equal Operator (==)
+```js
 var angka = 100
 console.log(angka == 100) // true
 console.log(angka == 20) // false
+```
 
 * Not Equal ( != )
+```js
 var sifat = "rajin"
 console.log(sifat != "malas") // true
 console.log(sifat != "bandel") //true 
+```
 
+```js
 * Strict Equal ( === ) Selain membandingkan dua nilai nya, strict equal juga membandingkan tipe datanya apakah sama atau tidak
+  
 var angka = 8
 console.log(angka == "8") // true, padahal "8" adalah string.
 console.log(angka === "8") // false, karena tipe data nya berbeda
 console.log(angka === 8) // true 
+```
 
 * Strict not Equal ( !== ) Kebalikan dari strict equal.
+```js
 var angka = 11
 console.log(angka != "11") // false, padahal "11" adalah string
 console.log(angka !== "11") // true, karena tipe datanya berbeda
 console.log(angka !== 11) // false
+```
 
 * Kurang dari & Lebih Dari ( <, >, <=, >=)
+```js
 var number = 17
 console.log( number < 20 ) // true
 console.log( number > 17 ) // false
 console.log( number >= 17 ) // true, karena terdapat sama dengan
 console.log( number <= 20 ) // true
+```
 
-4. Operator Kondisional, Operator yang mengkombinasikan dua nilai kebenaran . Terdapat operator AND (&&) dan OR (||)
+#### 4. Operator Kondisional, Operator yang mengkombinasikan dua nilai kebenaran . Terdapat operator AND (&&) dan OR (||)
    
 * OR ( || )
 console.log(true || true); // true
