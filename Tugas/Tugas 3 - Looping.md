@@ -36,6 +36,7 @@ LOOPING KEDUA
 ```
 
 **No. 2 Looping menggunakan for**
+
 Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax for. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk memenuhi syarat tertentu yaitu:
 
 SYARAT:
@@ -97,6 +98,7 @@ Output:
 ```
 
 No. 5 Membuat Papan Catur
+
 Buatlah suatu looping untuk menghasilkan sebuah papan catur dengan ukuran 8 x 8 . Papan berwarna hitam memakai tanda pagar (#) sedangkan papan putih menggunakan spasi. Looping boleh menggunakan syntax apa pun (while, for, do while).
 
 ```js
