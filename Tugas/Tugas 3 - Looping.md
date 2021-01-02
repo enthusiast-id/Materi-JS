@@ -4,7 +4,7 @@ Pada tugas kali ini buatlah folder baru (Tugas 3 – Looping) yang berisikan fil
 
 **No. 1 Looping While**
 
-Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax while. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk membuat suatu looping yang menghitung maju dan menghitung mundur. Jangan lupa tampilkan di console juga judul ‘LOOPING PERTAMA’ dan ‘LOOPING KEDUA’.”
+Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax *while*. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk membuat suatu looping yang menghitung maju dan menghitung mundur. Jangan lupa tampilkan di console juga judul ‘LOOPING PERTAMA’ dan ‘LOOPING KEDUA’.”
 
 ```js
 Output:
@@ -37,7 +37,7 @@ LOOPING KEDUA
 
 **No. 2 Looping menggunakan for**
 
-Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax for. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk memenuhi syarat tertentu yaitu:
+Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript dengan menggunakan syntax *for*. Untuk membuat tantangan ini lebih menarik, kamu juga diminta untuk memenuhi syarat tertentu yaitu:
 
 SYARAT:
 A. Jika angka ganjil maka tampilkan Ganjil
