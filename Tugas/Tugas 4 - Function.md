@@ -95,11 +95,11 @@ function isPalindrome(kata){
 
 }
 
-console.log(joinWord('level')); // true
-console.log(joinWord('Civic')); // true
-console.log(joinWord('JavaScript')); // false
-console.log(joinWord('Living')); // false
-console.log(joinWord('Madam')); // true
+console.log(isPalindrome('level')); // true
+console.log(isPalindrome('Civic')); // true
+console.log(isPalindrome('JavaScript')); // false
+console.log(isPalindrome('Living')); // false
+console.log(isPalindrome('Madam')); // true
 ```
 
 Jika sudah selesai dikerjakan, silahkan push hasil pekerjaan Anda ke repository Github masing-masing (gunakan repository project LatihanJS).
