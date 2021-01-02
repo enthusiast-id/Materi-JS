@@ -6,6 +6,7 @@ Pada tugas kali ini buatlah folder baru (Tugas 4 – Function) yang berisikan fi
 
 Tulislah sebuah function dengan nama teriak() yang mengembalikan nilai “Halo Enthusiast” yang kemudian dapat ditampilkan di console.
 
+```js
 /*
     Tulis code function di sini
 */
@@ -13,6 +14,7 @@ Tulislah sebuah function dengan nama teriak() yang mengembalikan nilai “Halo E
 console.log(teriak()) // "Halo Enthusiast" 
 
 **No. 2**
+```
 
 Tulislah sebuah function dengan nama kalikan() yang mengembalikan hasil perkalian dua parameter yang di kirim.
 
