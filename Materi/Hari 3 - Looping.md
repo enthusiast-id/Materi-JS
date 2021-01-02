@@ -28,7 +28,8 @@ while(flag < 10) { // Loop akan terus berjalan selama nilai flag masih dibawah 1
   flag++; // Mengubah nilai flag dengan menambahkan 1
 }
 ```
-Kamu bisa mencoba kode di atas di sini
+Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+
 
 Contoh Looping While-loop 2 Looping Mengembalikan Angka Total
 ```js
@@ -43,7 +44,8 @@ while(deret > 0) { // Loop akan terus berjalan selama nilai deret masih di atas 
 console.log(jumlah);
 
 ```
-Kamu bisa mencoba kode di atas di sini
+Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+
 
 For-loop 
 For-loop adalah bentuk lain dari iterasi, dimana statement for menjadi kontrol atas loop yang dilakukan. Hal ini yang menjadi pembeda antara for-loop dengan while-loop.
@@ -67,7 +69,8 @@ for(var angka = 1; angka < 10; angka++) {
   console.log('Iterasi ke-' + angka);
 } 
 ```
-Kamu bisa mencoba kode di atas di sini
+Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+
 
 Contoh Looping For-loop 2 Looping Mengembalikan Angka Total
 ```js
@@ -80,7 +83,8 @@ for(var deret = 5; deret > 0; deret--) {
 console.log('Jumlah terakhir: ' + jumlah);
 ```
 
-Kamu bisa mencoba kode di atas di sini
+Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+
 
 Contoh Looping For-loop 3 Looping Dengan Increment dan Decrement Lebih dari 1
 ```js
