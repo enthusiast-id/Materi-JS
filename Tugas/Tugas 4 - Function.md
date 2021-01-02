@@ -13,8 +13,8 @@ Tulislah sebuah function dengan nama teriak() yang mengembalikan nilai “Halo E
  
 console.log(teriak()) // "Halo Enthusiast" 
 
-**No. 2**
 ```
+**No. 2**
 
 Tulislah sebuah function dengan nama kalikan() yang mengembalikan hasil perkalian dua parameter yang di kirim.
 
