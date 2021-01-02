@@ -158,7 +158,7 @@ Contoh:
 
 ```js
 var Udin = 172;
-var Takur = 164;
+var Hilman = 164;
 var Aldi = 168;
 
 
@@ -169,7 +169,7 @@ var Aldi = 168;
 Output :
 
 Udin Memiliki Tinggi Badan tertinggi
-Takur Memiliki Tinggi Badan Terendah
+Hilman Memiliki Tinggi Badan Terendah
 ```
 
 **C. Ranking Nilai**
