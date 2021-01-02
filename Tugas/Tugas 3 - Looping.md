@@ -1,4 +1,4 @@
-# __Tugas 2 – String & Conditional__
+# __Tugas 3 – Looping__
 
 Pada tugas kali ini buatlah folder baru (Tugas 3 – Looping) yang berisikan file dengan nama looping.js . Simpan folder tugas ini di dalam folder repository project yang dikerjakan pada LatihanJS
 
@@ -115,4 +115,4 @@ Output:
 
 ```
 
-Jika sudah selesai dikerjakan, silahkan push hasil pekerjaan Anda ke repository Gitlab masing-masing (gunakan repository project LatihanJS).
+Jika sudah selesai dikerjakan, silahkan push hasil pekerjaan Anda ke repository Github masing-masing (gunakan repository project LatihanJS).
