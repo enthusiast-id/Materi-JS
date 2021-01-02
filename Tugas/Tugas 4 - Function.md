@@ -48,7 +48,7 @@ var hobby = "Gaming"
 var perkenalan = introduce(name, age, address, hobby)
 console.log(perkenalan) // Menampilkan "Nama saya Agus, umur saya 30 tahun, alamat saya di Jln. Malioboro, Yogyakarta, dan saya punya hobby yaitu Gaming!" 
 ```
-Clue : Gunakan String Literal untuk mencetak variable :)
+Clue : Gunakan Template Literal untuk mencetak variable :)
 
 
 **No.4**
