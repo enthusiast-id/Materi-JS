@@ -28,7 +28,7 @@ while(flag < 10) { // Loop akan terus berjalan selama nilai flag masih dibawah 1
   flag++; // Mengubah nilai flag dengan menambahkan 1
 }
 ```
-Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+Kamu bisa mencoba kode di atas di [sini](https://www.repl.it)
 
 
 Contoh Looping While-loop 2 Looping Mengembalikan Angka Total
@@ -44,7 +44,7 @@ while(deret > 0) { // Loop akan terus berjalan selama nilai deret masih di atas 
 console.log(jumlah);
 
 ```
-Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+Kamu bisa mencoba kode di atas di [sini](https://www.repl.it)
 
 
 For-loop 
@@ -69,7 +69,7 @@ for(var angka = 1; angka < 10; angka++) {
   console.log('Iterasi ke-' + angka);
 } 
 ```
-Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+Kamu bisa mencoba kode di atas di [sini](https://www.repl.it)
 
 
 Contoh Looping For-loop 2 Looping Mengembalikan Angka Total
@@ -83,7 +83,7 @@ for(var deret = 5; deret > 0; deret--) {
 console.log('Jumlah terakhir: ' + jumlah);
 ```
 
-Kamu bisa mencoba kode di atas di [I'm an inline-style link](https://www.repl.it)
+Kamu bisa mencoba kode di atas di [sini](https://www.repl.it)
 
 
 Contoh Looping For-loop 3 Looping Dengan Increment dan Decrement Lebih dari 1
