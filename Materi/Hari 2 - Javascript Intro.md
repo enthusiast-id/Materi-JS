@@ -107,9 +107,8 @@ console.log(sifat != "malas") // true
 console.log(sifat != "bandel") //true 
 ```
 
-```js
 * Strict Equal ( === ) Selain membandingkan dua nilai nya, strict equal juga membandingkan tipe datanya apakah sama atau tidak
-  
+```js  
 var angka = 8
 console.log(angka == "8") // true, padahal "8" adalah string.
 console.log(angka === "8") // false, karena tipe data nya berbeda
