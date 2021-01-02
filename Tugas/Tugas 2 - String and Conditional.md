@@ -176,9 +176,11 @@ Takur Memiliki Tinggi Badan Terendah
 
 Petunjuk : Buatlah 3 variable berisi nilai dan Ranking-kan berdasarkan range nilai yang dimiliki sesuai grade rules dibawah
 
+```js
 Nilai 76-100 : A
 Nilai 36-75  : B
 Nilai 1-35   : C
+```
 
 ```js
 var Tono = "78" // A
