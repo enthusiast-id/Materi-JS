@@ -73,7 +73,7 @@ Variable adalah suatu blok data untuk menampung sekumpulan data dengan berbagai 
 
 Perbedaan yang paling mendasar adalah bahwa let dan var dapat ubah isinya kembali sementara const tidak bisa. Ini menjadikan const pilihan terbaik untuk variabel yang tidak perlu diubah, dan itu akan mencegah kesalahan seperti merubah data yang tidak disengaja.
 
-<img src="https://i.postimg.cc/Jn9zH5Gb/const-vs-let-vs-var.png" alt="Your image title" width="250"/>
+<img src="https://i.postimg.cc/Jn9zH5Gb/const-vs-let-vs-var.png" alt="Your image title" width="450"/>
 
 ```js
 var name = "John"           //String
