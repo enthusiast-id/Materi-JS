@@ -1,6 +1,6 @@
 # __Tugas 2 – String & Conditional__
 
-Pada tugas kali ini buatlah folder baru (Tugas 2 – String Conditional) yang berisikan dua file dengan nama string.js (untuk Tugas String) dan conditional.js (untuk Tugas Conditional). Simpan folder tugas ini di dalam folder repository project yang dikerjakan pada repository teman-teman.
+Pada tugas kali ini buatlah folder baru (Tugas 2 – String Conditional) yang berisikan dua file dengan nama string.js (untuk Tugas String) dan conditional.js (untuk Tugas Conditional). Simpan folder tugas ini di dalam folder repository project LatihanJS.
 
 ## __A. Tugas String__ 
 
