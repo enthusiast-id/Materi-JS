@@ -51,22 +51,46 @@ Demikian cara untuk menjalankan Javascript dengan nodejs.
 
 Data Type atau dalam bahasa indonesia Tipe Data adalah sekumpulan informasi yang memiliki nilai dan karakteristik tertentu. Beberapa contoh tipe data pada javascript di antaranya:
 
-Number : tipe data angka
-String : tipe data berupa text atau kumpulan karakter, biasanya string dibungkus dalam tanda petik ganda (double quote) atau tanda petik tunggal (single quote).
-Boolean: tipe data dengan nilai true atau false
+* Number : tipe data angka
+* String : tipe data berupa text atau kumpulan karakter, biasanya string dibungkus dalam tanda petik ganda (double quote) atau tanda petik tunggal (single quote).
+* Boolean: tipe data dengan nilai true atau false
+* Float : tipe data pecahan
+* Object : Objek adalah sebuah variabel yang menyimpan nilai (properti) dan fungsi (method)
+
+Sekarang Bagaimana kita mengetahui tipe data dari sebuah Variable?
+
+```js
+console.log(typeof(true))   //Boolean
+console.log(typeof(2.14))   //Float
+console.log(typeof("2"))    //String 
+console.log(typeof(2))      //Number 
+console.log(typeof({}))     //Object
+```
 
 # __Variable__
 
-Variable adalah suatu blok data untuk menampung sekumpulan data dengan berbagai tipe data apapun. Dengan variable kita bisa menyimpan suatu nilai untuk kemudian kita olah kembali pada program kita. Untuk deklarasi variable dalam javascript kita bisa gunakan sintaks var lalu diikuti nama variablenya.
+Variable adalah suatu blok data untuk menampung sekumpulan data dengan berbagai tipe data apapun. Dengan variable kita bisa menyimpan suatu nilai untuk kemudian kita olah kembali pada program kita. Untuk deklarasi variable dalam javascript kita bisa gunakan sintaks var, let atau const lalu diikuti nama variablenya.
+
+Perbedaan yang paling mendasar adalah bahwa let dan var dapat ubah isinya kembali sementara const tidak bisa. Ini menjadikan const pilihan terbaik untuk variabel yang tidak perlu diubah, dan itu akan mencegah kesalahan seperti merubah data yang tidak disengaja.
+
+[const-vs-let-vs-var.png](https://postimg.cc/tZNjLPdT)
+
 
 ```js
-var name = "John" // Tipe
-var angka = 12
-var todayIsFriday = false 
+var name = "John"           //String
+let angka = 12              //Number
+const todayIsFriday = false //Boolean
+var car = {                 //Object 
+    type:"Fiat", 
+    model:"500", 
+    color:"white"
+};
 
 console.log(name) // "John"
 console.log(angka) // 12
 console.log(todayIsFriday) // false
+console.log(car.type) // Fiat
+
 Waspadai pendeklarasian variable yang tidak bernilai !
 
 var items
