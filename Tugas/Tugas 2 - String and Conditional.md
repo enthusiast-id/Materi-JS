@@ -17,7 +17,7 @@ var sixth = 'love';
 var seventh = 'it!';
 Buatlah agar kata-kata di atas menjadi satu kalimat . Output:
 
-**JavaScript is awesome and I love it!** 
+JavaScript is awesome and I love it!
 ```
 
 1. **Soal No.2 Mengurai kalimat (Akses karakter dalam string)**
