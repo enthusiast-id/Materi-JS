@@ -1,6 +1,21 @@
 # __Hari 1 – Git__
 Mengenal version control Git dan version control platform Github
 
+
+## __Menginstalasi Git__
+Sebelum menggunakan git tentunya anda diharuskan menginstall git terlebih dahulu
+[Klik disini](https://git-scm.com/downloads)
+
+Setelah selesai menginstall lakukan konfigurasi menggunakan terminal/cmd 
+
+```js
+Set username:
+git config --global user.name "FIRST_NAME LAST_NAME"
+
+Set email address:
+git config --global user.email "MY_NAME@example.com"
+```
+
 ## __Membuat project Git dan mengelolanya__
 Pastikan sudah install git di komputer anda. Jika belum terinstall silakan ikuti langkah-langkahnya di sini: https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git
 
