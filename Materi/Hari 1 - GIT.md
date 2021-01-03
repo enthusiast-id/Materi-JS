@@ -1,5 +1,5 @@
 # __Hari 1 – Git__
-Mengenal version control Git dan version control platform Gitlab
+Mengenal version control Git dan version control platform Github
 
 ## __Membuat project Git dan mengelolanya__
 Pastikan sudah install git di komputer anda. Jika belum terinstall silakan ikuti langkah-langkahnya di sini: https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git
@@ -86,7 +86,7 @@ Ketika kita sudah berhasil clone repository kita di Github maka tentu kita ingin
 ```
 
 - tanda “-m” pada perintah commit artinya kita ingin memberikan pesan atau laporan terhadap perubahan yang sudah dibuat. Dalam hal ini laporannya adalah “Pesan saya: mengubah README.md”
-- Selanjutnya adalah push untuk mengirim /upload perubahan yang ada di local computer kita menuju repository yang ada di Gitlab. Jika kita berada di branch bernama master maka perintahnya adalah:
+- Selanjutnya adalah push untuk mengirim /upload perubahan yang ada di local computer kita menuju repository yang ada di Github. Jika kita berada di branch bernama master maka perintahnya adalah:
 
 ```cmd
     $ git push origin master 
