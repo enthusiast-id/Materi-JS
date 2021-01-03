@@ -15,6 +15,9 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 Set email address:
 git config --global user.email "MY_NAME@example.com"
 ```
+[![contoh-perubahan-git.png](https://i.postimg.cc/YCC8CCNn/contoh-perubahan-git.png)](https://postimg.cc/PP016hRY)
+
+Menu Git di VSCode
 
 ## __Membuat project Git dan mengelolanya__
 Pastikan sudah install git di komputer anda. Jika belum terinstall silakan ikuti langkah-langkahnya di sini: https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git
@@ -122,13 +125,13 @@ Membuat branch baru dan melakukan merge request
 Terlebih dahulu lakukan clone terhadap repository project.
 
 ```cmd
-    $ git clone https://gitlab.com/some-project 
+    $ git clone https://github.com/some-project 
     $ cd some-project
 ```
 
 Catatan: 
 
-Link https di atas hanyalah contoh link dari sebuah repository. Link https tersebut bisa diperoleh di halaman gitlab pada bagian clone.
+Link https di atas hanyalah contoh link dari sebuah repository. Link https tersebut bisa diperoleh di halaman github pada bagian clone.
 
 ### __Buat branch baru__
 Setelah di-clone dan masuk ke folder project nya, buatlah branch baru . (myname hanyalah contoh nama branch, kita bisa mengubah sesuai nama yang diinginkan)
@@ -152,6 +155,33 @@ $ git add .
 $ git commit -m "some message"// push ke branch 
 $ git push origin myname
 ```
+
+
+
+### __Menghapus Branch__
+Ketika ingin menghapus branch yang tidak digunakan 
+
+```cmd
+// menghapus branch lokal
+$ git branch -d <nama_branch> 
+
+// menghapus branch yang sudah ada di repo
+git push origin --delete <remoteBranchName>
+
+``` 
+
+
+
+
+
+### __Git pull__
+Mengambil commit yang terupdate remotely
+
+```cmd
+// remote updated repo
+$ git pull
+
+``` 
 
 Catatan:
 

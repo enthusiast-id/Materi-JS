@@ -10,7 +10,7 @@ Lakukanlah clone dari project repo yang telah dibuat. Kemudian masuk ke folder p
  [![aaaa.png](https://i.postimg.cc/3wc1zF23/aaaa.png)](https://postimg.cc/t1FFxPrc)
 
 lalu copy text yang ada di dalam Clone With HTTPS lalu jalankan perintah ini di terminal/cmd
-```js
+```cmd
 git clone [hasil copy dari clone with https]
 ```
 lalu pindahkan ke folder project yang sudah di clone
@@ -21,7 +21,7 @@ LatihanJS/
     data_peserta.txt
 Buat folder baru dengan nama “Tugas-1 – Git” dan di dalamnya tambahkan file “data_peserta.txt”. Isi file “data_peserta.txt” tersebut dengan nama dan email Dummy menggunakan Enthusiast, akun Github, contoh:
 
-```js
+```cmd
 Data Peserta Enthusiast Camp :
 1. Nama: Enthusiastcoding
 2. Email: Enthusiastcoding@gmail.com
