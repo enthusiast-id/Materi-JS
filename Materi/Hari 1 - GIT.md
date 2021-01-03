@@ -15,6 +15,7 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 Set email address:
 git config --global user.email "MY_NAME@example.com"
 ```
+
 [![contoh-perubahan-git.png](https://i.postimg.cc/YCC8CCNn/contoh-perubahan-git.png)](https://postimg.cc/PP016hRY)
 
 Menu Git di VSCode
