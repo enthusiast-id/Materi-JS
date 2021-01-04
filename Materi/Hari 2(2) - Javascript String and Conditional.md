@@ -146,11 +146,12 @@ JavaScript Type Conversion
 
 sumber: github hacktiv8 phase 0 materials
 
-Kondisional adalah sebuah metode yang melakukan pengecekan terhadap suatu pernyataan atau premis apakah bernilai benar atau tidak, jika benar maka akan menjalankan sebuah block code tertentu.
 
 ## B. Conditional
 
 Kondisional dengan if / else if / else 
+
+Kondisional adalah sebuah metode yang melakukan pengecekan terhadap suatu pernyataan atau premis apakah bernilai benar atau tidak, jika benar maka akan menjalankan sebuah block code tertentu.
 
 **Contoh 1 menjalankan kode jika premis bernilai true**
 ```js
