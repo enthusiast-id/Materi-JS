@@ -61,7 +61,6 @@ Sekarang Bagaimana kita mengetahui tipe data dari sebuah Variable?
 
 ```js
 console.log(typeof(true))   //Boolean
-console.log(typeof(2.14))   //Float
 console.log(typeof("2"))    //String 
 console.log(typeof(2))      //Number 
 console.log(typeof({}))     //Object
