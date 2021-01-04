@@ -5,8 +5,10 @@
 **Buatlah satu repository project baru dengan nama project “LatihanJS“**, pastikan visibility level di set “public“, dan centang pada bagian “Initialize repository with a README“.
 
 
-1. Clone repository
+2. Clone repository
 Lakukanlah clone dari project repo yang telah dibuat. Kemudian masuk ke folder project yang telah di clone
+
+**Ini hanyalah contoh gunakan link HTTPS dari repository anda**
 
  [![aaaa.png](https://i.postimg.cc/3wc1zF23/aaaa.png)](https://postimg.cc/t1FFxPrc)
 
