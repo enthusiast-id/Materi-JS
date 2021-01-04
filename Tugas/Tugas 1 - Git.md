@@ -8,7 +8,7 @@
 2. Clone repository
 Lakukanlah clone dari project repo yang telah dibuat. Kemudian masuk ke folder project yang telah di clone
 
-**Ini hanyalah contoh gunakan link HTTPS dari repository anda**
+**Gambar Ini hanyalah contoh gunakan link HTTPS dari repository anda**
 
  [![aaaa.png](https://i.postimg.cc/3wc1zF23/aaaa.png)](https://postimg.cc/t1FFxPrc)
 
