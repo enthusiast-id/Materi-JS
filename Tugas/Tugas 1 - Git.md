@@ -1,7 +1,7 @@
 # __Tugas 1 – Git__
 
 1. Buat repository project baru
-Buatlah satu repository project baru dengan nama project “LatihanJS“, pastikan visibility level di set “public“, dan centang pada bagian “Initialize repository with a README“.
+**Buatlah satu repository project baru dengan nama project “LatihanJS“**, pastikan visibility level di set “public“, dan centang pada bagian “Initialize repository with a README“.
 
 
 2. Clone repository
