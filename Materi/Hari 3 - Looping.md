@@ -100,6 +100,60 @@ for(var deret = 15; deret > 0; deret -= 3) {
 ```
 Kamu bisa mencoba kode di atas di repl.it.
 
+Foreach
+Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (item dan index).
+
+```js
+
+let nama = ['Udin', 'Takur', 'Hilman'];
+
+nama.forEach((item, index) => {
+    console.log(index, item)
+})
+
+// expected output: 0 Udin
+// expected output: 1 Takur
+// expected output: 2 Hilman
+
+```
+
+For-in 
+Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (item).
+
+```js
+let nama = ['Udin', 'Takur', 'Hilman'];
+
+
+for (const element of nama) {
+  console.log(element);
+}
+
+// expected output: Udin
+// expected output: Takur
+// expected output: Hilman
+
+```
+
+
+For-of 
+Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (index).
+
+```js 
+
+let nama = ['Udin', 'Takur', 'Hilman'];
+
+
+for (const element in nama) {
+  console.log(element);
+}
+
+// expected output: 0
+// expected output: 1
+// expected output: 2
+
+```
+
+
 Waspadai Infinite Looping!
 Dengan sengaja atau tidak sengaja, kode kamu mungkin dapat menghasilkan infinite looping, atau looping yang tidak akan pernah berhenti. Bila ini terjadi, segera periksa statement kondisi kamu.
 ```js
