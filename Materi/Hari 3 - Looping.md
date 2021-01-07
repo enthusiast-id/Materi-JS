@@ -101,6 +101,7 @@ for(var deret = 15; deret > 0; deret -= 3) {
 Kamu bisa mencoba kode di atas di repl.it.
 
 Foreach
+
 Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (item dan index).
 
 ```js
@@ -124,6 +125,7 @@ nama.forEach(function(item, index) {
 ```
 
 For-in 
+
 Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (item).
 
 ```js
@@ -142,6 +144,7 @@ for (const element of nama) {
 
 
 For-of 
+
 Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (index).
 
 ```js 
