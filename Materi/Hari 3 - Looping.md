@@ -107,7 +107,13 @@ Perulangan foreach merupakan perulangan khusus untuk pembacaan nilai array (item
 
 let nama = ['Udin', 'Takur', 'Hilman'];
 
+//arrow function
 nama.forEach((item, index) => {
+    console.log(index, item)
+})
+
+//normal function
+nama.forEach(function(item, index) {
     console.log(index, item)
 })
 
