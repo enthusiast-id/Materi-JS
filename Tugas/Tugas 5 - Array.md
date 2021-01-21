@@ -23,6 +23,7 @@ console.log(range()) // -1
 
 ```
 **No. 2**
+
 Soal No. 2 (Range with Step)
 Pada soal kali ini kamu diminta membuat function rangeWithStep yang mirip dengan function range di soal sebelumnya namun parameternya ditambah dengan parameter ketiga yaitu angka step yang menyatakan selisih atau beda dari setiap angka pada array. Jika parameter pertama lebih besar dibandingkan parameter kedua maka angka-angka tersusun secara menurun (descending) dengan step sebesar parameter ketiga.
 
@@ -41,6 +42,7 @@ console.log(rangeWithStep(29, 2, 4)) // [29, 25, 21, 17, 13, 9, 5]
 
 
 **No. 3** 
+
 Kali ini kamu akan menjumlahkan sebuah range (Deret) yang diperoleh dari function range di soal-soal sebelumnya. Kamu boleh menggunakan function range dan rangeWithStep pada soal sebelumnya untuk menjalankan soal ini.
 
 Buatlah sebuah function dengan nama sum() yang menerima tiga parameter yaitu angka awal deret, angka akhir deret, dan beda jarak (step). Function akan mengembalikan nilai jumlah (sum) dari deret angka. contohnya sum(1,10,1) akan menghasilkan nilai 55.
@@ -63,6 +65,7 @@ Clue : Gunakan Template Literal untuk mencetak variable :)
 
 
 **No.4**
+
 Sering kali data yang diterima dari database adalah array yang multidimensi (array di dalam array). Sebagai developer, tugas kita adalah mengolah data tersebut agar dapat menampilkan informasi yang diinginkan.
 
 Buatlah sebuah fungsi dengan nama dataHandling dengan sebuah parameter untuk menerima argumen. Argumen yang akan diterima adalah sebuah array yang berisi beberapa array sejumlah n. Contoh input dapat dilihat dibawah:
@@ -123,6 +126,7 @@ console.log(balikKata("I am Sanbers")) // srebnaS ma I
 Dilarang menggunakan sintaks ```diff - .split , .join , .reverse()``` , hanya gunakan looping!
 
 **No.6**
+
 Soal No. 6 (Array Method)
 Array pada JavaScript memiliki sekumpulan built-in function yang digunakan untuk mempermudah developer untuk mengolah data di dalamnya. Beberapa fungsi yang sering digunakan antara lain join, split, slice, splice, dan sort. Kerjakanlah tantangan ini untuk memperkuat pengertian kamu tentang built-in function tersebut.
 
