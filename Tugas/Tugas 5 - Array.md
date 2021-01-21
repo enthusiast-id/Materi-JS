@@ -7,7 +7,7 @@ Pada tugas kali ini buatlah folder baru (Tugas 5 – Array) yang berisikan file 
 Soal No. 1 (Range) 
 Buatlah sebuah function dengan nama range() yang menerima dua parameter berupa number. Function mengembalikan sebuah array yang berisi angka-angka mulai dari angka parameter pertama hingga angka pada parameter kedua. Jika parameter pertama lebih besar dibandingkan parameter kedua maka angka-angka tersusun secara menurun (descending).
 
-struktur fungsinya seperti berikut ```- diff range(startNum, finishNum) {} ```
+struktur fungsinya seperti berikut diff``` - range(startNum, finishNum) {} ```
 Jika parameter pertama dan kedua tidak diisi maka function akan menghasilkan nilai -1
 
 ```js
@@ -123,7 +123,7 @@ console.log(balikKata("Haji Ijah")) // hajI ijaH
 console.log(balikKata("racecar")) // racecar
 console.log(balikKata("I am Sanbers")) // srebnaS ma I 
 ```
-Dilarang menggunakan sintaks ```diff - .split , .join , .reverse()``` , hanya gunakan looping!
+Dilarang menggunakan sintaks diff ``` - .split , .join , .reverse()``` , hanya gunakan looping!
 
 **No.6**
 
