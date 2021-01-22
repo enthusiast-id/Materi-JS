@@ -115,13 +115,12 @@ function balikKata(kata1,kata2) {
   // you can only write your code here!
 }
 
-// Code di sini
  
 console.log(balikKata("Kasur Rusak")) // kasuR rusaK
-console.log(balikKata("SanberCode")) // edoCrebnaS
+console.log(balikKata("Enthusiast")) // tsaisuhtnE
 console.log(balikKata("Haji Ijah")) // hajI ijaH
 console.log(balikKata("racecar")) // racecar
-console.log(balikKata("I am Sanbers")) // srebnaS ma I 
+console.log(balikKata("I am Developer")) // repoleveD ma I 
 ```
 Dilarang menggunakan sintaks  ```.split() , .join() , .reverse()``` , hanya gunakan looping!
 
